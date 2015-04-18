@@ -1,7 +1,7 @@
 # shakespeare-git-practice
 Training area for those new to git.  Fork it and clone from your own fork.
 
-Text based on Project Gutenberg's plain text version of Romeo and Juliet by William Shakespeare.
+Text based on Project Gutenberg's plain text version of [The Tragedy of Romeo and Juliet](https://www.gutenberg.org/cache/epub/1112/pg1112.txt) by William Shakespeare.
 
 Learning Resources
 ====================
