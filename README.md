@@ -36,9 +36,8 @@ Type in:
 
 to see that you have no local changes yet.  You should get:
 
-    `# On branch master`
-
-    `nothing to commit (working directory clean)`
+     # On branch master
+     nothing to commit (working directory clean)
 
 
 
@@ -142,7 +141,7 @@ How can you view your commit history?  Try out the following.
 
    `git log`
 
-   `git show d091ce`
+   `git show 188713b`
 
 You should also explore branching and merging, once you
 understand the basics of the commit history and pushing/pulling.
