@@ -1,9 +1,21 @@
 # shakespeare-git-practice
 Training area for those new to git.  Fork it and clone from your own fork.
 
-See the end of this file for links to free e-books that teach you about git.
-
 Text based on Project Gutenberg's plain text version of Romeo and Juliet by William Shakespeare.
+
+Learning Resources
+====================
+[Git Beginners, Code School Challenge](https://try.github.io/levels/1/challenges/1)
+
+[Picture Guide to Commands](http://marklodato.github.io/visual-git-guide/index-en.html)
+
+[Git Tower E-Book](www.git-tower.com/learn) Focus on Chapters 1-4.
+
+[Git-Scm E-Book](http://git-scm.com/doc) Focus on Chapters 1, 2, 3, 5, 6.
+
+[Git Branching Game](http://pcottle.github.io/learnGitBranching/)
+
+[Article-Length Quick-Start](http://code.tutsplus.com/tutorials/easy-version-control-with-git--net-7449)
 
 
 Getting Started
@@ -147,19 +159,4 @@ How can you view your commit history?  Try out the following.
 
 You should also explore branching and merging, once you
 understand the basics of the commit history and pushing/pulling.
-
-
-Learning Resources
-====================
-[Git Beginners, Code School Challenge](https://try.github.io/levels/1/challenges/1)
-
-[Picture Guide to Commands](http://marklodato.github.io/visual-git-guide/index-en.html)
-
-[Git Tower E-Book](www.git-tower.com/learn) Focus on Chapters 1-4.
-
-[Git-Scm E-Book](http://git-scm.com/doc) Focus on Chapters 1, 2, 3, 5, 6.
-
-[Git Branching Game](http://pcottle.github.io/learnGitBranching/)
-
-[Article-Length Quick-Start](http://code.tutsplus.com/tutorials/easy-version-control-with-git--net-7449)
 
