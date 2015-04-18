@@ -26,11 +26,13 @@ This gives you a copy of the files to get started.
 Bring up a git bash command line inside that directory on your local computer.
 
 Type in:
+
    `git status`
 
 to see that you have no local changes yet.  You should get:
 
     `# On branch master`
+
     `nothing to commit (working directory clean)`
 
 
@@ -46,9 +48,13 @@ Create a new file in each scene directory, named Scene.txt
 
 Run `git status` to see that it has an untracked file.
 Type:
+
    `git add scene1/Scene.txt`
+
    `git add scene2/Scene.txt`
+
    `git add scene3/Scene.txt`
+
    `git status`
 
 This has added the new file to the git staging area.  You 
@@ -56,26 +62,40 @@ can commit these empty files as a starting point, and write
 a message explaining what you did.
 
    `git commit -m "Empty placeholders for scenes"`
+
    `git status`
 
 Now you're ready to start copying and pasting in the scene contents
 for scene 1.
 
 Do a small amount of work, and then git commit your changes.
+
    `git diff`
+
    `git add .`
+
    `git status`
+
    `git commit -m "Added the third section of the scene"`
 
+
+
 Then do a small amount of work, and git commit the next set of changes.
+
    `git add .`
+
    `git status`
+
    `git commit -m "Added the fourth section of the scene"`
 
 When you finish the scene, git commit and git push.
+
    `git add .`
+
    `git status`
+
    `git commit -m "Finished the scene"`
+
    `git push`
 
 If you are working with a partner, divide the scenes between you,
@@ -84,8 +104,11 @@ need to git pull to bring down a copy of your partner's changes, before
 you can push your own.
 
    `git status`
+
    `git pull`
+
    `git status`
+
    `git push`
 
 Make sure you trade back and forth several times, as well as work
@@ -109,8 +132,11 @@ more time, then follow the on-screen instructions to finish
 the commit process.
 
 How can you view your commit history?  Try out the following.
+
    `git log -2`
+
    `git log`
+
    `git show 3b4da83`
 
 You should also explore branching and merging, once you
