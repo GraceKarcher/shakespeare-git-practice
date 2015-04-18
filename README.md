@@ -137,7 +137,7 @@ How can you view your commit history?  Try out the following.
 
    `git log`
 
-   `git show 3b4da83`
+   `git show d091ce`
 
 You should also explore branching and merging, once you
 understand the basics of the commit history and pushing/pulling.
