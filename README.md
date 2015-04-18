@@ -19,7 +19,8 @@ Then in the lower right of the web page, look for the "clone url" piece.
 As long as you remember your username and password, you can use the http url.
 
 Copy the url to the clipboard.  Then on your own computer, run the command:
-git clone thatUrl
+
+  `git clone thatUrl`
 
 This gives you a copy of the files to get started.
 
