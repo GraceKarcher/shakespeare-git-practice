@@ -5,7 +5,7 @@ Text based on Project Gutenberg's plain text version of Romeo and Juliet by Will
 
 Learning Resources
 ====================
-[Git Beginners, Code School Challenge](https://try.github.io/levels/1/challenges/1)
+[Git Beginners Challenge](https://try.github.io/levels/1/challenges/1)
 
 [Picture Guide to Commands](http://marklodato.github.io/visual-git-guide/index-en.html)
 
