@@ -18,15 +18,19 @@ https://github.com/your.name/shakespeare-git-practice
 Then in the lower right of the web page, look for the "clone url" piece.
 As long as you remember your username and password, you can use the http url.
 
-Copy the url to the clipboard.  Then on your own computer, run the command:
+Copy the url to the clipboard.  Then on your own computer, bring up
+the git bash command line, or your choice of graphical git client.
+
+Run the command:
 
   `git clone thatUrl`
 
 This gives you a copy of the files to get started.
 
-Bring up a git bash command line inside that directory on your local computer.
 
 Type in:
+
+   `cd shakespeare-git-practice`
 
    `git status`
 
