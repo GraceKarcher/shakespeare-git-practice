@@ -1,6 +1,8 @@
 # shakespeare-git-practice
 Training area for those new to git.  Fork it and clone from your own fork.
 
+See the end of this file for links to free e-books that teach you about git.
+
 Text based on Project Gutenberg's plain text version of Romeo and Juliet by William Shakespeare.
 
 
