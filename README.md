@@ -3,6 +3,14 @@ Training area for those new to git.  Fork it and clone from your own fork.
 
 Text based on Project Gutenberg's plain text version of [The Tragedy of Romeo and Juliet](https://www.gutenberg.org/cache/epub/1112/pg1112.txt) by William Shakespeare.
 
+Install Git Software
+======================
+
+Go here: [http://git-scm.com/downloads](http://git-scm.com/downloads)
+
+Pick your operating system and following the install directions.
+
+
 Learning Resources
 ====================
 [Git Beginners Challenge](https://try.github.io/levels/1/challenges/1)
